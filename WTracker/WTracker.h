@@ -6,9 +6,9 @@
 //
 //
 
-#import <WTracker/WVisitor.h>
-#import <WTracker/WEvent.h>
-#import <WTracker/WPropertiesContainer.h>
+#import "WVisitor.h"
+#import "WEvent.h"
+#import "WPropertiesContainer.h"
 #import <Foundation/Foundation.h>
 
 @interface WTracker : WPropertiesContainer
